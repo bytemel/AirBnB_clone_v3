@@ -153,9 +153,6 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-<<<<<<< HEAD
-Timothy Mwangi- [Github](https://github.com/bytemel)
 
 ## License
 Public Domain. No copy write protection. 
