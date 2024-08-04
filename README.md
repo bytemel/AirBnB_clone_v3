@@ -157,12 +157,6 @@ No known bugs at this time.
 <<<<<<< HEAD
 Timothy Mwangi- [Github](https://github.com/bytemel)
 
-Second part of Airbnb: Timothy Mwangi
-=======
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
-Second part of Airbnb: Joann Vuong
->>>>>>> 7e219f8 (AirBnB_clone_v3)
 ## License
 Public Domain. No copy write protection. 
+
